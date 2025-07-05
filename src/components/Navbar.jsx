@@ -15,7 +15,6 @@ const Navbar = () => {
   }, []);
 
   const navLinks = [
-    { name: 'Beranda', href: '#top' },
     { name: 'Tentang', href: '#tentang' },
     { name: 'Layanan', href: '#layanan' },
     { name: 'Portofolio', href: '#portofolio' },
@@ -29,7 +28,11 @@ const Navbar = () => {
       }`}
     >
       <div className="flex justify-between items-center px-6 md:px-16 py-2">
-        <div className="font-bold text-2xl">RavenzWRLD</div>
+        <div>
+        <a href="#top" className="transition font-bold text-2xl text-purple-600 hover:text-white cursor-pointer">
+          RavenzWRLD
+        </a>
+      </div>
 
         <div className="md:hidden">
           <button onClick={() => setOpen(!open)}>
