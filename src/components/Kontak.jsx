@@ -34,7 +34,7 @@ const Kontak = () => {
   };
 
   return (
-    <section id="kontak" className="px-6 md:px-16 py-12 bg-gray-100 text-center relative">
+    <section id="kontak" className="px-6 md:px-16 py-20 bg-gray-100 text-center relative">
       <h2 className="text-2xl font-bold mb-6">Hubungi Kami</h2>
 
       {/* Google Maps Embed */}

@@ -31,7 +31,7 @@ function App() {
       </div>
 
       {/* Tentang Kami */}
-      <section id="tentang" className="px-6 md:px-16 py-12 bg-white text-center">
+      <section id="tentang" className="px-6 md:px-16 py-20 bg-white text-center">
         <h2 className="text-2xl font-semibold mb-6">Tentang Kami</h2>
         <div className="max-w-3xl mx-auto text-sm leading-relaxed mb-6">
           Kami adalah tim kreatif yang berdedikasi untuk menghasilkan karya visual berkualitas tinggi berdiri sejak 2020, kami telah menyelesaikan puluhan proyek.
@@ -45,7 +45,7 @@ function App() {
       </section>
 
       {/* Layanan Kami */}
-      <section id="layanan" className="px-6 md:px-16 py-12 bg-gray-100 text-center">
+      <section id="layanan" className="px-6 md:px-16 py-20 bg-gray-100 text-center">
         <h2 className="text-2xl font-semibold mb-6">Layanan kami</h2>
         <div className="grid md:grid-cols-3 gap-8">
           {[
@@ -76,7 +76,7 @@ function App() {
       </section>
 
       {/* Portofolio */}
-      <section id="portofolio" className="px-6 md:px-16 py-12 bg-white text-center">
+      <section id="portofolio" className="px-6 md:px-16 py-20 bg-white text-center">
         <h2 className="text-2xl font-semibold mb-6">Portofolio</h2>
         <div className="grid md:grid-cols-3 gap-8">
           {[
