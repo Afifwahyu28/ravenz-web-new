@@ -5,7 +5,6 @@ import Kontak from './components/Kontak';
 import Footer from './components/Footer';
 import { initGA, trackPageView } from './analytics';
 import LayananKami from './components/LayananKami';
-import { Tent } from 'lucide-react';
 import TentangKami from './components/TentangKami';
 import Portofolio from './components/Portofolio';
 import Hero from './components/Hero';
