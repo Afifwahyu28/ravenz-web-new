@@ -21,7 +21,7 @@ const Footer = () => {
           aria-label="Instagram"
         >
           <img
-            src="/src/assets/instagram.png"
+            src="instagram.png"
             alt="Instagram"
             className="w-5 h-5 object-contain"
           />
@@ -35,7 +35,7 @@ const Footer = () => {
           aria-label="YouTube"
         >
           <img
-            src="/src/assets/youtube.png"
+            src="youtube.png"
             alt="YouTube"
             className="w-5 h-5 object-contain"
           />

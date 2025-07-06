@@ -56,7 +56,7 @@ const Hero = () => {
   return (
     <section
       id="top"
-      style={{ backgroundImage: "url('hero-image.jpg')" }}
+      style={{ backgroundImage: "url('background.jpg')" }}
       className="relative h-screen bg-cover bg-center flex flex-col justify-center items-center text-white text-center px-6"
     >
       <h1 className="text-4xl md:text-5xl font-bold leading-tight mb-2">

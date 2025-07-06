@@ -60,17 +60,17 @@ const TentangKami = () => {
           variants={fadeInVariant}
         >
           <img
-            src="src/assets/TentangKami-1.jpg"
+            src="TentangKami-1.jpg"
             alt="tentang1"
             className="absolute top-0 left-0 w-[180px] h-[260px] md:w-[300px] md:h-[460px] object-cover rounded-xl shadow-xl"
           />
           <img
-            src="src/assets/TentangKami-2.jpg"
+            src="TentangKami-2.jpg"
             alt="tentang2"
             className="absolute top-1/2 -translate-y-1/2 left-[100px] md:left-[200px] w-[200px] h-[280px] md:w-[320px] md:h-[500px] object-cover rounded-xl shadow-xl z-10"
           />
           <img
-            src="src/assets/TentangKami-3.jpg"
+            src="TentangKami-3.jpg"
             alt="tentang3"
             className="absolute bottom-0 left-[220px] md:left-[400px] w-[180px] h-[260px] md:w-[320px] md:h-[480px] object-cover rounded-xl shadow-xl"
           />

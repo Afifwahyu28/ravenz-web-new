@@ -5,19 +5,19 @@ const LayananKami = () => {
   const layananData = [
     {
       title: 'Short Film',
-      img: 'src/assets/Short-film.jpg',
+      img: 'public/Short-Film.jpg',
       desc: 'Produksi dokumentasi dan naratif dengan storytelling yang kuat',
       detail: 'Kami menghadirkan sinematografi yang menggugah emosi dengan pendekatan naratif yang kreatif, cocok untuk pernikahan, dokumenter, atau proyek personal.'
     },
     {
       title: 'Iklan',
-      img: 'src/assets/Iklan.jpeg',
+      img: 'public/Iklan.jpeg',
       desc: 'Iklan kreatif untuk TV, media sosial, dan kampanye digital.',
       detail: 'Tim kami merancang iklan yang menarik secara visual dan efektif menyampaikan pesan brand untuk berbagai media.'
     },
     {
       title: 'Buku Tahunan',
-      img: 'src/assets/Buku-Tahunan.jpeg',
+      img: 'public/Buku-Tahunan.jpg',
       desc: 'Pemotretan kreatif untuk kenangan sekolah yang tak terlupakan',
       detail: 'Kami membuat sesi foto bertema dan desain buku tahunan yang memorable, cocok untuk sekolah dasar hingga menengah atas.'
     },
