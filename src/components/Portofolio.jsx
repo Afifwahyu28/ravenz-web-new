@@ -9,35 +9,35 @@ const Portofolio = () => {
     {
       title: 'Short Film – Proyek',
       year: '2024',
-      img: 'src\assets\Portfolio-1.jpeg',
+      img: '/src/assets/Portfolio-1.jpeg',
     },
     {
-      title: 'Iklan – Kampanye',
+      title: 'Festival – Musik',
       year: '2023',
-      img: '/portfolio/Portfolio-2.jpeg',
+      img: '/src/assets/Portfolio-2.jpeg',
     },
     {
-      title: 'Buku Tahunan – SMA',
+      title: 'Pemrotretan Koreo– Universitas',
       year: '2024',
-      img: '/portfolio/Portfolio-3.jpeg',
+      img: '/src/assets/Portfolio-3.jpeg',
     },
   ];
 
   const extraItems = [
     {
-      title: 'Wedding – Bali',
-      year: '2023',
-      img: '/portfolio/Portfolio-4.jpeg',
-    },
-    {
-      title: 'Dokumenter – Lokal',
-      year: '2022',
-      img: '/portfolio/Portfolio-5.jpeg',
-    },
-    {
-      title: 'Music Video – Indie',
+      title: 'Pemotretan - Wisuda',
       year: '2024',
-      img: '/portfolio/Portfolio-6.jpeg',
+      img: '/src/assets/Portofolio-4.png',
+    },
+    {
+      title: 'HUT RI – Dokumenter',
+      year: '2023',
+      img: '/src/assets/Portofolio-5.png',
+    },
+    {
+      title: 'Mahasiswa Baru – Dokumenter',
+      year: '2022',
+      img: '/src/assets/Portofolio-6.png',
     },
   ];
 

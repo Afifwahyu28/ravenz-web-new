@@ -38,7 +38,8 @@ const Kontak = () => {
       id="kontak"
       className="px-6 md:px-16 py-12 bg-gray-100 text-center relative"
     >
-      <h2 className="text-2xl font-bold mb-6">Hubungi Kami</h2>
+      <h2 className="text-2xl font-bold mb-4">Sampaikan Cerita Anda ke Kami!</h2>
+      <h3 className="text-m font-medium mb-7">Kami siap membantu menghidupkan visi Anda melalui karya visual yang autentik dan sinematik. Mari wujudkan cerita Anda jadi nyata.</h3>
 
       {/* Grid dua kolom: Form & Info+Maps */}
       <div className="grid md:grid-cols-2 gap-8 items-start text-left">
@@ -87,16 +88,16 @@ const Kontak = () => {
         <div className="space-y-4">
           {/* Info Kontak */}
           <div className="space-y-3">
-            <p className="text-sm">📧 Email: info@productionhouse.com</p>
-            <p className="text-sm">📞 Telepon: +62 123 456 7890</p>
-            <p className="text-sm">📍 Alamat: Daerah Istimewa Yogyakarta</p>
+            <p className="text-sm">📧 Email: Jhcinema00@gmail.com</p>
+            <p className="text-sm">📞 Telepon: +62 895-3006-5082</p>
+            <p className="text-sm">📍 Alamat: Bale Catur Sleman Regency</p>
           </div>
 
           {/* Google Maps Embed */}
           <div className="w-full h-64 rounded-md overflow-hidden shadow-md">
             <iframe
               title="Lokasi Kami"
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3953.2818402780804!2d110.40428249678956!3d-7.759904899999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a599bd3bdc4ef%3A0x6f1714b0c4544586!2sUniversitas%20Amikom%20Yogyakarta!5e0!3m2!1sid!2sid!4v1748639251429!5m2!1sid!2sid"
+              src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3952.724724514702!2d110.28638807495913!3d-7.818934677647969!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zN8KwNDknMDguMiJTIDExMMKwMTcnMjAuMyJF!5e0!3m2!1sen!2sid!4v1751821500529!5m2!1sen!2sid"
               width="100%"
               height="100%"
               className="w-full h-full border-0"
