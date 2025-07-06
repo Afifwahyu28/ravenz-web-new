@@ -7,9 +7,9 @@ const Portofolio = () => {
 
   const mainItems = [
     {
-      title: 'Short Film – Proyek',
+      title: 'Short Film – Project',
       year: '2024',
-      img: 'Portofolio-1.jpeg',
+      img: 'Portfolio-1.jpeg',
     },
     {
       title: 'Festival – Musik',
