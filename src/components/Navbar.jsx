@@ -35,7 +35,7 @@ const Navbar = () => {
         }`}
         >
         <img
-          src="src/assets/logo.png"
+          src="public/logo.png"
           alt="Logo"
           className={`h-8 w-8 object-contain transition-colors duration-300 ${
           scrolled ? 'brightness-0' : 'brightness-200'

@@ -9,17 +9,17 @@ const Portofolio = () => {
     {
       title: 'Short Film – Proyek',
       year: '2024',
-      img: 'public/Portofolio-1.jpeg',
+      img: 'Portofolio-1.jpeg',
     },
     {
       title: 'Festival – Musik',
       year: '2023',
-      img: 'public/Portfolio-2.jpeg',
+      img: 'Portfolio-2.jpeg',
     },
     {
       title: 'Pemrotretan Koreo– Universitas',
       year: '2024',
-      img: 'public/Portfolio-3.jpeg',
+      img: 'Portfolio-3.jpeg',
     },
   ];
 
@@ -27,17 +27,17 @@ const Portofolio = () => {
     {
       title: 'Pemotretan - Wisuda',
       year: '2024',
-      img: 'public/Portofolio-4.png',
+      img: 'Portofolio-4.png',
     },
     {
       title: 'HUT RI – Dokumenter',
       year: '2023',
-      img: 'public/Portofolio-5.png',
+      img: 'Portofolio-5.png',
     },
     {
       title: 'Mahasiswa Baru – Dokumenter',
       year: '2022',
-      img: 'public/Portofolio-6.png',
+      img: 'Portofolio-6.png',
     },
   ];
 
