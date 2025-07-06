@@ -23,7 +23,7 @@ const TentangKami = () => {
       </motion.h2>
 
       <motion.div
-        className="grid grid-cols-1 md:grid-cols-[1.3fr_60px_1fr] items-center gap-y-12 md:gap-y-0"
+        className="grid grid-cols-1 md:grid-cols-[1fr_40px_1fr] items-center gap-y-12 md:gap-y-0"
         initial="hidden"
         whileInView="visible"
         viewport={{ once: true }}
@@ -53,7 +53,7 @@ const TentangKami = () => {
 
         {/* Kolase Foto */}
         <motion.div
-          className="relative h-[520px] md:h-[560px] w-full max-w-md md:max-w-[700px] -ml-2 md:-ml-10"
+          className="relative h-[520px] md:h-[560px] w-full max-w-md md:max-w-[750px] md:ml-auto flex justify-end"
           initial="hidden"
           whileInView="visible"
           viewport={{ once: true }}

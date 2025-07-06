@@ -17,7 +17,7 @@ const Footer = () => {
           href="https://www.instagram.com/rvnzwrld?igsh=MnpyYWp1OXVjNDFj"
           target="_blank"
           rel="noopener noreferrer"
-          className="hover:opacity-80 transition text-pink-500 hover:text-white transition"
+          className="hover:opacity-80 transition text-pink-500 hover:text-white"
           aria-label="Instagram"
         >
           <img
@@ -32,7 +32,7 @@ const Footer = () => {
           href="https://www.facebook.com/p/Ravenz-Wrld-100083268850266//"
           target="_blank"
           rel="noopener noreferrer"
-          className="hover:opacity-80 transition text-blue-600 hover:text-white transition"
+          className="hover:opacity-80 transition text-blue-600 hover:text-white"
           aria-label="Facebook"
         >
           <img
@@ -47,7 +47,7 @@ const Footer = () => {
           href="https://youtube.com/@ravensworld5345?si=WCLlTdLPXGDzR9f_"
           target="_blank"
           rel="noopener noreferrer"
-          className="hover:opacity-80 transition text-red-600 hover:text-white transition"
+          className="hover:opacity-80 transition text-red-600 hover:text-white"
           aria-label="YouTube"
         >
           <img
@@ -62,7 +62,7 @@ const Footer = () => {
           href="https://wa.me/6289530065082"
           target="_blank"
           rel="noopener noreferrer"
-          className="hover:opacity-80 transition text-green-400 hover:text-white transition"
+          className="hover:opacity-80 transition text-green-400 hover:text-white"
           aria-label="WhatsApp"
         >
           <img
