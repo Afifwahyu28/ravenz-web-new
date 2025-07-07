@@ -8,6 +8,8 @@ import LayananKami from './components/LayananKami';
 import TentangKami from './components/TentangKami';
 import Portofolio from './components/Portofolio';
 import Hero from './components/Hero';
+import MengapaKami from './components/MengapaKami';
+import Testimoni from './components/Testimoni';
 
 function App() {
   useEffect(() => {
@@ -29,8 +31,14 @@ function App() {
       {/* Layanan Kami */}
       <LayananKami />
 
+      {/* Mengapa Kami */}
+      <MengapaKami />
+
       {/* Portofolio */}
       <Portofolio />
+
+      {/* Testimoni */}
+      <Testimoni />
 
       {/* Hubungi Kami */}
       <Kontak />

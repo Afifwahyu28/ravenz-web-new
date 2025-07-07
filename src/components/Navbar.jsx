@@ -16,6 +16,7 @@ const Navbar = () => {
   const navLinks = [
     { name: 'Tentang', href: '#tentang' },
     { name: 'Layanan', href: '#layanan' },
+    { name: 'Mengapa Kami', href: '#mengapa-kami' },
     { name: 'Portofolio', href: '#portofolio' },
     { name: 'Kontak', href: '#kontak' },
   ];
